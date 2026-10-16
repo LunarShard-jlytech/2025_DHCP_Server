@@ -4,6 +4,8 @@
 <ul>
   <li>Windows Server 2022</li>
   <li>Installed DHCP Server</li>
+  <li>Active Directory</li>
+  
 </ul>
 
 
@@ -15,7 +17,10 @@
 
 
 <p>
-  After installing DHCP server, I open DHCP server and went to right click New Scope. I name Husky Scope and wrote in description said Range addreses from 172.168.22.100 - 172.168.22.200
+
+  DHCP is <b>Dynamic Host Control Protocol</b> leases IP addresses when a new computer joins the domain and automatically fills the
+  IP address, subnet, and alternate DNS.
+
 </p>
 
 
